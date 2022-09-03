@@ -1,0 +1,14 @@
+{
+  "test": [
+    {
+      "deviceSubType": "UPS1",
+      "sensorId": "B96680f_nbSNMPEnc0459C4D7_TIME_ON_BATT,B96680f_nbSNMPEnc0459C4D7_BATT_AMPERAGE",
+      "sensorName": "Time_Running_on_Battery"
+    },
+    {
+      "deviceSubType": "UPS2",
+      "sensorId": "B96680f_nbSNMPEnc0459C4D7_TIME_ON_BATT,B96680f_nbSNMPEnc0459C4D7_BATT_AMPERAGE",
+      "sensorName": "Time_Running_on_Battery"
+    }
+  ]
+}

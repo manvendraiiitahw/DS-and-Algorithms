@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:envelope xmlns:ns1="http://mynamespace.com/ns1" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+      <soap:body>
+          <ns1:updatemydetails>
+              <ns1:items>
+                  <ns1:id>1</ns1:id>
+                  <ns1:name>crazy coders</ns1:name>
+                  <ns1:email>crazycoders4u@gmail.com</ns1:email>
+                  <ns1:age>25</ns1:age>
+              </ns1:items>
+          </ns1:updatemydetails>
+      </soap:body>
+</soap:envelope>
